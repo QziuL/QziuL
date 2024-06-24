@@ -67,10 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/QziuL/QziuL/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/8k6zb97ygvnbfvv5c06s86lii">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=8k6zb97ygvnbfvv5c06s86lii&count=5&unique=false" alt="Spotify recently played"  />
@@ -78,3 +74,11 @@
 </div>
 
 ###
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{QziuL}/count.svg" /></p> 
+<br></div>
+
+###
+
