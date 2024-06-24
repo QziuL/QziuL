@@ -1,5 +1,4 @@
-<h2 align="left">🤘 Bem vindo! 🤘<br>> Me chamo Luiz Quinholi, tenho 19 anos e atualmente estou cursando  
-  Análise e Desenvolvimento de Sistemas</h2>
+<h2 align="left">🤘 Bem vindo! 🤘<br>> Me chamo Luiz Quinholi, tenho 19 anos e atualmente estou cursando <br> Análise e Desenvolvimento de Sistemas </br> </h2>
 
 ###
 
