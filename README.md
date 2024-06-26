@@ -1,13 +1,8 @@
-<h2 align="left">🤘 Bem vindo! 🤘<br>> Me chamo Luiz Quinholi, tenho 19 anos e atualmente estou cursando  <br>Análise e Desenvolvimento de Sistemas 👾</h2>
+<h2 align="left">🤘 Bem vindo! 🤘</h2>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QziuL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QziuL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
-</div>
+<h4>
+  👾 Me chamo Luiz Quinholi, tenho 19 anos e busco me tornar um desenvolvedor. <br/>Atualmente estou cursando <b><i>Análise e Desenvolvimento de Sistemas</i></b> 
+</h4>
 
 ###
 
@@ -15,7 +10,7 @@
 
 ###
 
-<p align="left">🐸 Conhecimentos</p>
+<p align="left">🐸 Tecnologias que uso/conheço</p>
 
 ###
 
@@ -47,6 +42,15 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QziuL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QziuL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+</div>
+
+
+###
+
+<div align="center">
+  <h4>👇 O que eu tenho ouvido ultimamente 👇</h4>
   <a href="https://open.spotify.com/user/8k6zb97ygvnbfvv5c06s86lii">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=8k6zb97ygvnbfvv5c06s86lii&count=5&unique=false" alt="Spotify recently played"  />
   </a>
@@ -55,9 +59,7 @@
 ###
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>So many numbers >^< </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{QziuL}/count.svg" /></p> 
 <br></div>
-
-###
 
