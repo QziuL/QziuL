@@ -1,6 +1,6 @@
 # 🤘 Bem vindo! 🤘
 
-### 👾 Me chamo Luiz Quinholi, tenho 19 anos e busco me tornar um desenvolvedor. <br/>Atualmente estou cursando <b><i>Análise e Desenvolvimento de Sistemas</i></b> 
+### 👾 Me chamo Luiz Quinholi, tenho 19 anos e busco me tornar um desenvolvedor. <br/>Atualmente estou cursando <b><i>Análise e Desenvolvimento de Sistemas.</i></b> 
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🐸 Tecnologias que uso/conheço</p>
+<p align="left">🐸 Tecnologias que uso/conheço:</p>
 
 ###
 
