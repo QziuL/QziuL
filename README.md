@@ -49,7 +49,7 @@
 
 
 ###
-
+<!--
 <div align="center">
   <h4>👇 O que eu tenho ouvido ultimamente 👇</h4>
   <a href="https://open.spotify.com/user/8k6zb97ygvnbfvv5c06s86lii">
@@ -63,4 +63,4 @@
 <br><p align="centre"><b>So many numbers >^< </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{QziuL}/count.svg" /></p> 
 <br></div>
-
+-->
